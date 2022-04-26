@@ -1,6 +1,6 @@
 # Modelagem Estatística
 
-## Data Cleaning e Data Preparation
+## [Data Cleaning e Data Preparation](https://github.com/vpaula07/data_analytics/blob/main/DataCleaning.ipynb)
 
  - Qual o objetivo de fazer uma boa limpeza nos seus dados
  - Principais problemas encontrados nas bases de dados
