@@ -5,3 +5,5 @@
 ## [Detecção de Outliers](https://github.com/vpaula07/data_analytics/blob/main/Substituindo_Tratando_outliers.ipynb)
 
 ## [Tratamento de variáveis categóricas](https://github.com/vpaula07/data_analytics/blob/main/Tratamento_categoricas.ipynb)
+
+## [Conceitos de Modelagem](https://github.com/vpaula07/data_analytics/blob/main/Modelagem.ipynb)
