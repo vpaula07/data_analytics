@@ -8,4 +8,6 @@
 
 ## [Conceitos de Modelagem](https://github.com/vpaula07/data_analytics/blob/main/Modelagem.ipynb)
 
-## [Projeto](https://github.com/vpaula07/data_analytics/blob/main/Projeto_Counter_Strike.ipynb)
+## [Projeto_Test](https://github.com/vpaula07/data_analytics/blob/main/Projeto_Counter_Strike.ipynb)
+
+## [ML - SVM](https://github.com/vpaula07/data_analytics/blob/main/SVM_Previs%C3%A3o_Empr%C3%A9stimo.ipynb)
