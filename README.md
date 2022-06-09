@@ -13,3 +13,5 @@
 ## [ML - SVM](https://github.com/vpaula07/data_analytics/blob/main/SVM_Previs%C3%A3o_Empr%C3%A9stimo.ipynb)
 
 ## [ML - Naive_Bayes](https://github.com/vpaula07/data_analytics/blob/main/Naive_Bayes.ipynb)
+
+## [ML - Decision_Tree_Regressor](https://github.com/vpaula07/data_analytics/blob/main/Decision_Tree_Regressor.ipynb)
